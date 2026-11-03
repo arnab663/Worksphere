@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Worksphere.Api/Worksphere.Api.csproj" />
+  <Project Path="Worksphere.Client/Worksphere.Client.csproj" />
+</Solution>
